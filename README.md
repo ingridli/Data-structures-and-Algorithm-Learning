@@ -1,2 +1,2 @@
-# Data-structures-and-Algorithm-Learning
-Record the learning process.
+# 链表
+记录牛客、力扣等题库的链表习题学习过程
